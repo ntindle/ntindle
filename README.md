@@ -8,7 +8,6 @@ I'm **Nick** — an Open Source Maintainer of [AutoGPT](https://github.com/Signi
 
 - 🤖 AI agents that are slowly working themselves (and me) out of a job — at [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - 🖼️ [EaselWall](https://easelwall.com) — a macOS app that puts a museum masterpiece on your desktop every morning, because *"the desktop is the most-looked-at painting in the world. It may as well be a good one."*
-- 🌳 [Branchlet](https://github.com/ntindle/branchlet) — a CLI for git worktrees, because I apparently can't stop building tools to build things faster
 - ❄️ [Arctic Blower](https://github.com/ntindle/arctic-blower) — a snow-clearing empire simulator built by AI in one conversation. One file. One idea. Infinite snow.
 
 ---
@@ -20,15 +19,15 @@ I'm **Nick** — an Open Source Maintainer of [AutoGPT](https://github.com/Signi
 - 🎨 Built XR music production with a Magic Leap One at SXSW. Also won that one.
 - 🤖 Restarted UNT's robotics club from 0 → 80+ members, then immediately built more robots
 - 🏆 9+ hackathon wins. Solar-powered parking systems, esports Discord bots, bag-tracking RFID networks — you know, the classics
-- 🎭 Competed in Destination Imagination to a global top-10 finish as a kid; now I judge it
+- 🎭 Competed in Destination Imagination Improve (engineering improv challenges) to a global top-10 finish as a kid; now I judge it
 - 🌙 Night owl — my best commits happen around 1:30 AM CST, co-authored with Claude
-- 🎮 Star Citizen player who built a [community events API](https://github.com/ntindle/star-citizen-events-api) because of course I did
-- 📐 3D prints Gridfinity bins and built a [15-star space optimizer](https://github.com/ntindle/gridfinity-space-optimizer) for them
+- 🎮 Star Citizen player
+- 📐 3D prints Gridfinity bins and built a [space optimizer](https://github.com/ntindle/gridfinity-space-optimizer) for them
 
 ---
 
 **Find me:**
 
-[🌐 ntindle.com](https://ntindle.com) · [🦋 Bluesky @ntindle.com](https://bsky.app/profile/ntindle.com) · [💼 LinkedIn](https://linkedin.com/in/ntindle) · [📬 Telegram @ntindle](https://t.me/ntindle)
+[🌐 ntindle.com](https://ntindle.com) · [🐦 Twitter @nicktindle](https://twitter.com/nicktindle) · [🦋 Bluesky @ntindle.com](https://bsky.app/profile/ntindle.com) · [💼 LinkedIn](https://linkedin.com/in/ntindle) · [📬 Telegram @ntindle](https://t.me/ntindle)
 
 *Available for consulting — reach out!*
