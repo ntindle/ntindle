@@ -19,7 +19,7 @@ I'm **Nick** — an Open Source Maintainer of [AutoGPT](https://github.com/Signi
 - 🎨 Built XR music production with a Magic Leap One at SXSW. Also won that one.
 - 🤖 Restarted UNT's robotics club from 0 → 80+ members, then immediately built more robots
 - 🏆 9+ hackathon wins. Solar-powered parking systems, esports Discord bots, bag-tracking RFID networks — you know, the classics
-- 🎭 Competed in Destination Imagination Improve (engineering improv challenges) to a global top-10 finish as a kid; now I judge it
+- 🎭 Competed in Destination Imagination Improv to a global top-10 finish as a kid; now I judge it
 - 🌙 Night owl — my best commits happen around 1:30 AM CST, co-authored with Claude
 - 🎮 Star Citizen player
 - 📐 3D prints Gridfinity bins and built a [space optimizer](https://github.com/ntindle/gridfinity-space-optimizer) for them
