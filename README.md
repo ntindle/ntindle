@@ -29,5 +29,3 @@ I'm **Nick** — an Open Source Maintainer of [AutoGPT](https://github.com/Signi
 **Find me:**
 
 [🌐 ntindle.com](https://ntindle.com) · [🐦 Twitter @nicktindle](https://twitter.com/nicktindle) · [🦋 Bluesky @ntindle.com](https://bsky.app/profile/ntindle.com) · [💼 LinkedIn](https://linkedin.com/in/ntindle) · [📬 Telegram @ntindle](https://t.me/ntindle)
-
-*Available for consulting — reach out!*
