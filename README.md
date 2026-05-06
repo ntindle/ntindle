@@ -1,6 +1,6 @@
 ### Howdy y'all 👋🤠
 
-I'm **Nick** — an Open Source Maintainer of [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), serial hackathon winner, and a Texan who once sent a weather balloon 30,000 feet into the stratosphere just to mint an NFT on the blockchain. It froze. It thawed. It minted. No regrets.
+I'm **Nick** — a Maintainer of [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), serial hackathon winner, and a Texan who once sent a weather balloon 30,000 feet into the stratosphere just to mint an NFT on the blockchain. It froze. It thawed. It minted. No regrets.
 
 ---
 
