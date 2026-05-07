@@ -28,4 +28,6 @@ I'm **Nick** — a Maintainer of [AutoGPT](https://github.com/Significant-Gravit
 
 **Find me:**
 
-[🌐 ntindle.com](https://ntindle.com) · [🐦 Twitter @nicktindle](https://twitter.com/nicktindle) · [🦋 Bluesky @ntindle.com](https://bsky.app/profile/ntindle.com) · [💼 LinkedIn](https://linkedin.com/in/ntindle) · [📬 Telegram @ntindle](https://t.me/ntindle)
+[🌐 ntindle.com](https://ntindle.com) · [𝕏 @nicktindle](https://x.com/nicktindle) · [🦋 Bluesky @ntindle.com](https://bsky.app/profile/ntindle.com) · [💼 LinkedIn](https://linkedin.com/in/ntindle) · [📬 Telegram @ntindle](https://t.me/ntindle)
+
+[📸 Instagram @nicktindle](https://www.instagram.com/nicktindle) · [🧵 Threads @nicktindle](https://www.threads.net/@nicktindle) · [🤗 Hugging Face](https://huggingface.co/ntindle) · [🦊 GitLab](https://gitlab.com/ntindle) · [📝 Dev.to](https://dev.to/ntindle) · [🧊 MakerWorld](https://makerworld.com/en/@ntindle) · [💝 Sponsor](https://github.com/sponsors/ntindle)
